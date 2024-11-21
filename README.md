@@ -1,4 +1,4 @@
-# ETL-With-Python-PandaPostgreSQL
+# ETL With Python PandaPostgreSQL
 Tranform dataset from Csv to Postgresql using Python-PandaSql
 
 The purpose of this project is to extract dataset from csv, tranform using python pandasql and load to PostgreSQL.
